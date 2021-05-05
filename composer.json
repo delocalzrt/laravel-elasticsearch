@@ -34,7 +34,7 @@
         "phpunit/phpunit": "^9.4"
     },
     "suggest": {
-        "aws/aws-sdk-php": "Required to connect to an Elasticsearch host on AWS (^3.80)"
+
     },
     "autoload": {
         "psr-4": {
